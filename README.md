@@ -2,10 +2,7 @@
 
 # PowerShell Fundamentals Tutorial
 
-This repository is part of my GitHub Pages Portfolio and explore's the fundamentals of
-PowerShell and PowerShell scripting. The objectives go over essential information on the functionality of PowerShell, 
-PowerShell cmdlets & basic syntax and structure, working with Files and Directories, PowerShell scripting basics, 
-and real world use cases.
+This repository is part of my GitHub Pages Portfolio and demonstrates hands-on, practical experience with PowerShell. It covers core scripting concepts and real-world use cases aligned with practical tasks. 
 
 ---
 
