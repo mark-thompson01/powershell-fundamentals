@@ -38,6 +38,28 @@ All images, HTML, and styling are embedded within the GitHub Pages site itself.
 
 ---
 
+## 📌 What I’ve Learned
+
+- **A Solid Understanding of PowerShell Theory**  
+  Combined with hands-on application of cmdlets, object-based pipelines, administrative task automation, and scripting fundamentals.
+
+- **Effective Use of Core Cmdlets**  
+  Practical mastery of cmdlets like `Get-Command`, `Get-Module`, `Get-Process`, `Set-NetFirewallRule`, and more—showing how to discover, inspect, and manage system resources.
+
+- **Scripting Fundamentals & Error Handling**  
+  Building reusable scripts with variables, loops, functions, and structured error handling (`try` / `catch` / `finally`), plus learning when to use `Write-Host` vs. `Write-Output` for logging and debugging.
+
+- **Real-World Automation Scenarios**  
+  Automating everyday IT tasks such as batch Active Directory user creation, firewall rule management, log archiving, and scheduled reporting—demonstrating how to apply PowerShell in a production-style environment.
+
+- **Cross-Platform Awareness**  
+  Understanding differences between Windows PowerShell (built on .NET Framework) and PowerShell Core (built on .NET Core / .NET 5+), and writing scripts that can run across Windows, Linux, and macOS.
+
+- **Documentation & Teaching Skills**  
+  Crafting clear, step-by-step explanations, embedding screenshots, and organizing content for a learner-friendly lab—strengthening both technical and communication abilities.
+
+---
+
 ## 📁 More from Me
 
 Visit my full GitHub Pages portfolio to explore additional projects:
