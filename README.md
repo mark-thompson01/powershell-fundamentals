@@ -7,6 +7,8 @@ PowerShell and PowerShell scripting. The objectives go over essential informatio
 PowerShell cmdlets & basic syntax and structure, working with Files and Directories, PowerShell scripting basics, 
 and real world use cases.
 
+---
+
 📘 **Overview**  
 The PowerShell Fundamentals tutorial provides a beginner-to-intermediate guide covering:
 - .NET and .Core Frameworks
