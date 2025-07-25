@@ -17,10 +17,19 @@ The PowerShell Fundamentals tutorial provides a beginner-to-intermediate guide c
 
 ---
 
-🖥️ **Live Tutorial Webpage:**  
+🖥️ **Live Project Webpage:**  
 👉 [PowerShell Fundamentals](https://mark-thompson01.github.io/MTPortfolio/Current%20Projects%20&%20Studies/PowerShell%20Fundamentals/)
 
 This tutorial includes annotated examples, syntax explanations, screenshots, and scripting demonstrations.
+
+---
+
+📘 **Purpose**  
+The goal of this project is to showcase my ability to:
+- Write and interpret PowerShell scripts
+- Automate administrative tasks such as user creation, firewall rule management, and log archiving
+- Work confidently with cmdlets, objects, data types, conditionals, loops, and modules
+- Document and explain PowerShell concepts clearly and effectively
 
 ---
 
