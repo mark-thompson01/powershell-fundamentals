@@ -27,7 +27,7 @@ This tutorial includes annotated examples, syntax explanations, screenshots, and
 📘 **Purpose**  
 The goal of this project is to showcase my ability to:
 - Write and interpret PowerShell scripts
-- Automate administrative tasks such as user creation, firewall rule management, and log archiving
+- Automate administrative tasks such as user creation, system management, and log archiving
 - Work confidently with cmdlets, objects, data types, conditionals, loops, and modules
 - Document and explain PowerShell concepts clearly and effectively
 
