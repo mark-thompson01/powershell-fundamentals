@@ -18,7 +18,7 @@ The PowerShell Fundamentals tutorial provides a beginner-to-intermediate guide c
 
 
 🖥️ **Live Tutorial Webpage:**  
-👉 [PowerShell Fundamentals](https://yourusername.github.io/powershell-fundamentals/)
+👉 [PowerShell Fundamentals](https://mark-thompson01.github.io/MTPortfolio/Current%20Projects%20&%20Studies/PowerShell%20Fundamentals/)
 
 This tutorial includes annotated examples, syntax explanations, screenshots, and scripting demonstrations.
 
