@@ -14,13 +14,16 @@ The PowerShell Fundamentals tutorial provides a beginner-to-intermediate guide c
 - Cmdlets & basic syntax and structure
 - File System operation
 - PowerShell scripting basics
-- Real-world use cases 
+- Real-world use cases
 
+---
 
 🖥️ **Live Tutorial Webpage:**  
 👉 [PowerShell Fundamentals](https://mark-thompson01.github.io/MTPortfolio/Current%20Projects%20&%20Studies/PowerShell%20Fundamentals/)
 
 This tutorial includes annotated examples, syntax explanations, screenshots, and scripting demonstrations.
+
+---
 
 📂 **Hosted on GitHub Pages:**  
 All images, HTML, and styling are embedded within the GitHub Pages site itself.
