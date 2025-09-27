@@ -2,7 +2,7 @@
 
 # PowerShell Fundamentals Tutorial
 
-This repository is part of my GitHub Pages Portfolio and demonstrates hands-on, practical experience with PowerShell. It covers core scripting concepts and real-world use cases aligned with practical tasks. 
+This repository is part of my PowerShell Fundamentals tutorial available on my GitHub Pages Portfolio and demonstrates hands-on, practical experience with PowerShell. It covers core scripting concepts and real-world use cases aligned with practical tasks. 
 
 ---
 
